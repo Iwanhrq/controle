@@ -392,14 +392,14 @@ form [type="reset"]:hover {
     /*CONTATO*/
     .fundo-contato {
         width: 1100px;
-        height: 610px;
-        margin-top: 140px;
-        margin-bottom: 100px;
+        height: 570px;
+        margin-top: 100px;
+        margin-bottom: 60px;
     }
     
     .fotocontato {
         float: left;
-        height: 610px;
+        height: 570px;
         margin-right: 30px;
     }
 
